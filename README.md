@@ -14,5 +14,5 @@ but sometime this also won't work.
  Next fire up your terminal and goto directory in which that wheel file is installed.
  Now type 
  ```bash 
- pip install <file name.whl>
+ pip install <file_name.whl>
  ```
