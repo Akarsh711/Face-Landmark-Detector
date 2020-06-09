@@ -1,5 +1,4 @@
 # Face-Landmark-Detector
-
 ## Issues may occur while installing
 Often there is a problem while installing dlib. Mostly you found that on internet they show the way in which you have to install dlib and then have to create binary using cmake. This is the way in which you have to install source code and compiled by your own.
 
